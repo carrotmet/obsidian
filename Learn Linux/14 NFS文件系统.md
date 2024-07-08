@@ -1,0 +1,13 @@
+- 文件存储
+	- ![[Pasted image 20240520123418.png]]
+	- FTP/NFS/SAMBA
+- NFS实现硬盘共享
+	- 借助rpc实现服务监听，注册中心端口 111
+	- 默认监听 2049
+- samba——windows与linux文件传输协议
+
+- 对象存储
+	- iSCSI
+- 块存储
+	- ceph
+	- swift

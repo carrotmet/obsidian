@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "2f07b5caeda17ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5dd5a25ecbc02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60500a15f8c80e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn Linux/50 面试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c19b62edc7b3883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn Linux/50 面试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2045aa27dba51426",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4deea57bd69f94c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed29cfbc59073128",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7aaab07aac6475d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mysql",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67c0c2a06f8d10e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "right": {
+    "id": "055bb75fb07b1be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c84c06f23ae30c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d04ff0086ad4e51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn Linux/50 面试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dd7a1cc0bfcbdc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn Linux/50 面试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "273bd1dbc2d96d91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4ba8aba9190f28b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn Linux/50 面试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d7aaab07aac6475d",
+  "lastOpenFiles": [
+    "Agent/算力、算法、数据.md",
+    "Learn Linux/50 面试.md",
+    "Learn Linux/50.2 linux.md",
+    "逻辑/01 简单辩论.md",
+    "逻辑",
+    "Pasted image 20240708171941.png",
+    "Agent/aiops.md",
+    "创业/00 个人训练模型.md",
+    "Pasted image 20240708143212.png",
+    "Learn Linux/50.1 网络.md",
+    "Learn Python/01 重点.md",
+    "Learn Linux/41 架构.md",
+    "Learn Linux/40 虚拟化.md",
+    "Learn Linux/51 面试板块.md",
+    "Learn Linux/面试题整理.md",
+    "Learn CSBasis/Http请求与幂等性.md",
+    "Learn Linux/11 Http协议.md",
+    "Pasted image 20240708033347.png",
+    "Pasted image 20240708031543.png",
+    "Learn Go/go-easyweb/07 验证码设计.md",
+    "Learn Go/go-easyweb/08 注册设计.md",
+    "Learn Go/go-easyweb/git推送问题.md",
+    "Learn Go/go-easyweb/最后的MVC.md",
+    "Learn Go/go-easyweb/11 打包部署.md",
+    "Learn Go/go-easyweb/10.1 cobra基础.md",
+    "Learn Go/go-easyweb/10 cobra命令行开发.md",
+    "Pasted image 20240708023031.png",
+    "Learn Go/go-K8s/API接口专讲.md",
+    "Learn CSBasis/负载均衡.md",
+    "Learn CSBasis/缓存同步与数据预热.md",
+    "Learn CSBasis/四层网络架构.md",
+    "Learn Linux/52 蓝鲸智云.md",
+    "Pasted image 20240705182744.png",
+    "Pasted image 20240705122252.png",
+    "Pasted image 20240705121028.png",
+    "Pasted image 20240705115436.png",
+    "Pasted image 20240705115431.png",
+    "Learn Ops/ansible_k8s集群",
+    "Learn Python/ansible",
+    "Experiment",
+    "创业",
+    "Learn Go/go-easyweb",
+    "Learn CSBasis",
+    "Learn Go/go-web_kernel",
+    "Learn Go/未命名.canvas",
+    "resume",
+    "Learn Go/6.824"
+  ]
+}
